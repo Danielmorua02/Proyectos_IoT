@@ -13,3 +13,6 @@ Dependiendo de si se detecta agua o no:
         Se activa el buzzer.
         La ventana muestra un fondo rojo con el mensaje "No se ha detectado agua".
         El estado del sensor se actualiza cada 500 ms, y al cerrar el programa, se apagan los LEDs y se libera el control de los pines GPIO.
+
+Para mas aclaracion puedes encontrar un video demostracion en el siguiente enlace:
+    https://drive.google.com/file/d/1ZW-vYNURqb_nfqolZbvtbPI5da6-jodi/view?usp=sharing
